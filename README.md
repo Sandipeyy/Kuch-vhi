@@ -1,11 +1,11 @@
-![XaviaBanner](https://i.ibb.co/K0ZSt89/XaviaFCB.png)
+![XaviaBanner](https://i.imgur.com/YRkpqVx.png)
 
 # Xavia
 
 • A Facebook Chat Bot made by Infx Squad<br />
 • This Project will turn your Facebook account into a ***Facebook Chat Bot*** with a lot of Features
 
-![illustration](https://i.ibb.co/5MCXJkX/309961956-852941662506289-2438726751602905775-n.png)
+![illustration](https://i.imgur.com/zIz3yaM.png)
 
 <hr />
 
