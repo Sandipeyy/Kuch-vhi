@@ -12,7 +12,7 @@
     "startDev": "node --trace-warnings --experimental-import-meta-resolve --expose-gc core/_build.js"
   },
   "keywords": [
-    "xaviabot",
+    "annabot",
     "fca-unofficial",
     "facebook-chat-api",
     "chatbot",
