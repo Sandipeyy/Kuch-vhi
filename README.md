@@ -1,6 +1,6 @@
 ![XaviaBanner](https://i.imgur.com/YRkpqVx.png)
 
-# Xavia
+# ANNA BOT
 
 • A Facebook Chat Bot made by Infx Squad<br />
 • This Project will turn your Facebook account into a ***Facebook Chat Bot*** with a lot of Features
