@@ -2,7 +2,7 @@
 
 # Xavia
 
-• A Facebook Chat Bot made by XaviaTeam<br />
+• A Facebook Chat Bot made by Infx Squad<br />
 • This Project will turn your Facebook account into a ***Facebook Chat Bot*** with a lot of Features
 
 ![illustration](https://i.ibb.co/5MCXJkX/309961956-852941662506289-2438726751602905775-n.png)
@@ -44,7 +44,7 @@ npm install && npm start
 ```
 
 ## Documentations
-• See: [XaviaBot Documentation](https://github.com/XaviaTeam/XaviaBot/blob/main/DOCS.md)
+• See: [XaviaBot Documentation](https://github.com/notsopreety/Anna/blob/main/DOCS.md)
 
 ## Contributing
 • Pull requests are welcome.<br/>
@@ -53,17 +53,14 @@ npm install && npm start
 ## Authors
 
 • **DimensityDU** (Lead Author):
-[Github](https://github.com/RFS-ADRENO) -
-[Facebook](https://www.facebook.com/Dungto213) -
-[Discord](https://discord.gg/a5uKHKSPww) -
-[Youtube](https://www.youtube.com/channel/UCmL-430tKfEJYJ1rzBOCOjA) -
-[Mail](mailto:xaviateam@protonmail.com)<br />
+[Github](https://github.com/notsopreety) -
+[Facebook](https://www.facebook.com/notsopreety) -
+[Mail](mailto:infxsquad@protonmail.com)<br />
 
 ## Supporters?
 
-• **TruongMini**:
-[Github](https://github.com/truong9c2208) -
-[Facebook](https://www.facebook.com/shibasama.dev)
+• **Abhishek**:
+[Facebook](https://www.facebook.com/7h.abhishek.official)
 <br /><br />
 • Many thanks to TesterTeam for all the testing, feedbacks and the other Bot Projects ([c3cbot](https://github.com/c3cbot/legacy-c3cbot) - [miraibot](https://github.com/miraiPr0ject/miraiv2) - [kb2abot](https://github.com/kb2ateam/kb2abot-client)) that inspired me to create XaviaBot
 
@@ -75,11 +72,7 @@ npm install && npm start
 ## Like our work?
 
 • Give us a star!<br />
-• Support us via:<br />
-&nbsp;&nbsp;&nbsp;» [Paypal](https://www.paypal.com/paypalme/dungto213)<br />
-&nbsp;&nbsp;&nbsp;» [Momo](https://me.momo.vn/gMIMulsaUqsbf6iAiXt3)<br />
-&nbsp;&nbsp;&nbsp;» [Buy me a Coffee!](https://www.buymeacoffee.com/dimensityDU)
 
 ## License
 • This project is licensed under the MIT License<br />
-• Go to [LICENSE](https://github.com/XaviaTeam/XaviaBot/blob/main/LICENSE) file
+• Go to [LICENSE](https://github.com/notsopreety/Anna/blob/main/LICENSE) file
