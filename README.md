@@ -52,12 +52,12 @@ npm install && npm start
 
 ## Authors
 
-• **DimensityDU** (Lead Author):
+• **Samir Badaila** (Lead Author):
 [Github](https://github.com/notsopreety) -
 [Facebook](https://www.facebook.com/notsopreety) -
 [Mail](mailto:infxsquad@protonmail.com)<br />
 
-## Supporters?
+## Supporters
 
 • **Abhishek**:
 [Facebook](https://www.facebook.com/7h.abhishek.official)
