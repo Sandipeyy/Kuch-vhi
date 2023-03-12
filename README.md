@@ -15,9 +15,9 @@
 
 ## Installation
 
-• [Install Xavia on Replit](https://www.youtube.com/watch?v=WUva_shyMqM)
+• [Install Anna on Replit](https://www.youtube.com/watch?v=WUva_shyMqM)
 
-• Import to [Replit](https://replit.com/github/XaviaTeam/XaviaBot) / [Glitch](https://glitch.com/edit/#!/import/github/XaviaTeam/XaviaBot)
+• Import to [Replit](https://replit.com/github/notsopreety/Anna) / [Glitch](https://glitch.com/edit/#!/import/github/XaviaTeam/XaviaBot)
 
 
 __OR__
@@ -26,13 +26,13 @@ __OR__
 • Download Zip or Clone Project using
 
 ```bash
-git clone https://github.com/XaviaTeam/XaviaBot.git
+git clone https://github.com/notsopreety/Anna.git
 ```
 
-• Move to xavia directory
+• Move to anna directory
 
 ```bash
-cd xavia
+cd anna
 ```
 
 • Use [c3c-fbstate](https://github.com/c3cbot/c3c-fbstate) to get the appstate from your Facebook account then paste it on appstate.json
