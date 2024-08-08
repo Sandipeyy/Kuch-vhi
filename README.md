@@ -53,14 +53,14 @@ npm install && npm start
 ## Authors
 
 • **Samir Badaila** (Lead Author):
-[Github](https://github.com/notsopreety) -
-[Facebook](https://www.facebook.com/notsopreety) -
+[Github](https://github.com/Sandipeyy) -
+[Facebook](https://www.facebook.com/sandipghotaneygurung) -
 [Mail](mailto:infxsquad@protonmail.com)<br />
 
 ## Supporters
 
-• **Abhishek**:
-[Facebook](https://www.facebook.com/7h.abhishek.official)
+• **Chaina koi😔**:
+[Facebook](https://www.facebook.com/sandipghotaneygurung)
 <br /><br />
 • Many thanks to TesterTeam for all the testing, feedbacks and the other Bot Projects ([c3cbot](https://github.com/c3cbot/legacy-c3cbot) - [miraibot](https://github.com/miraiPr0ject/miraiv2) - [kb2abot](https://github.com/kb2ateam/kb2abot-client)) that inspired me to create XaviaBot
 
